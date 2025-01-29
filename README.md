@@ -118,7 +118,8 @@ Your Name
 
 
 UI:-
-![page](https://github.com/user-attachments/assets/91160ba1-1825-472d-b4d1-fc7953a853bd)
+![page](https://github.com/user-attachments/assets/2744ef38-220b-48e1-a202-1c95a21b7e6f)
+
 
 
 
