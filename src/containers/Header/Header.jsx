@@ -2,6 +2,7 @@ import React from "react";
 import "./header.css";
 import Ai from "../../assets/ai.png";
 import people from "../../assets/people.png";
+
 const Header = () => {
   return (
     <div className="gpt3__header" id="home">
