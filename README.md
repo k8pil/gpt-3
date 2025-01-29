@@ -1,3 +1,7 @@
+Sure! Here's a cleaner version of your README:
+
+---
+
 # Modern GPT-3 Website
 
 A modern, fully responsive website built with React, showcasing GPT-3's capabilities with beautiful UI/UX design and smooth animations.
@@ -10,8 +14,6 @@ A modern, fully responsive website built with React, showcasing GPT-3's capabili
 - **Performance Optimized**: Fast loading and smooth transitions
 - **Accessibility**: Semantic HTML and ARIA-compliant components
 
-
-
 ## 💻 Tech Stack
 
 - React.js
@@ -22,25 +24,25 @@ A modern, fully responsive website built with React, showcasing GPT-3's capabili
 
 ## 🛠️ Installation Steps
 
-1. Clone the repository
-```bash
-git clone https://github.com/k8pil/first-project-gpt-
-```
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/k8pil/first-project-gpt-
+   ```
 
-2. Change the working directory
-```bash
-cd first-project-gpt-
-```
+2. Change the working directory:
+   ```bash
+   cd first-project-gpt-
+   ```
 
-3. Install dependencies
-```bash
-npm install
-```
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
 
-4. Run the app
-```bash
-npm start
-```
+4. Run the app:
+   ```bash
+   npm start
+   ```
 
 🌟 You are all set! Open [localhost:3000](http://localhost:3000) to see the app.
 
@@ -72,13 +74,13 @@ The website features several smooth animations:
 
 ## 🎨 Color Reference
 
-| Color          | Hex                                                                |
-| -------------- | ------------------------------------------------------------------ |
-| Primary        | ![#FF4820](https://via.placeholder.com/10/FF4820?text=+) #FF4820 |
-| Background     | ![#040C18](https://via.placeholder.com/10/040C18?text=+) #040C18 |
-| Text           | ![#81AFDD](https://via.placeholder.com/10/81AFDD?text=+) #81AFDD |
-| Gradient Start | ![#AE67FA](https://via.placeholder.com/10/AE67FA?text=+) #AE67FA |
-| Gradient End   | ![#F49867](https://via.placeholder.com/10/F49867?text=+) #F49867 |
+| Color          | Hex        |
+| -------------- | ---------- |
+| Primary        | #FF4820    |
+| Background     | #040C18    |
+| Text           | #81AFDD    |
+| Gradient Start | #AE67FA    |
+| Gradient End   | #F49867    |
 
 ## 🌐 Browser Support
 
@@ -115,13 +117,13 @@ Your Name
 - Animations inspired by modern UX practices
 
 
-
-
 UI:-
-![page](https://github.com/user-attachments/assets/2744ef38-220b-48e1-a202-1c95a21b7e6f)
-
-
-
+![page](https://github.com/user-attachments/assets/909bd46d-ac25-4a47-acf9-febc13afab12)
 
 ---
+
 ⭐️ Star this repo if you like what you see! 
+
+---
+
+I hope this helps! Let me know if you need any more changes.
