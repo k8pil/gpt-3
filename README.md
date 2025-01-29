@@ -1,7 +1,5 @@
 # Modern GPT-3 Website
 
-![Modern GPT-3 Website](preview.png)
-
 A modern, fully responsive website built with React, showcasing GPT-3's capabilities with beautiful UI/UX design and smooth animations.
 
 ## 🌟 Features
@@ -26,12 +24,12 @@ A modern, fully responsive website built with React, showcasing GPT-3's capabili
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/Awesome-React-Website.git
+git clone https://github.com/k8pil/first-project-gpt-
 ```
 
 2. Change the working directory
 ```bash
-cd Awesome-React-Website
+cd first-project-gpt-
 ```
 
 3. Install dependencies
@@ -107,14 +105,22 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## 👨‍💻 Author
 
 Your Name
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
+- GitHub: [@k8pil](https://github.com/k8pil)
+- LinkedIn: [Kapil Parmar](https://linkedin.com/in/imkapil)
 
 ## 🙏 Acknowledgments
 
 - Design inspiration from modern web trends
 - Icons from [React Icons](https://react-icons.github.io/react-icons/)
 - Animations inspired by modern UX practices
+
+
+
+
+UI:-
+![page](https://github.com/user-attachments/assets/91160ba1-1825-472d-b4d1-fc7953a853bd)
+
+
 
 ---
 ⭐️ Star this repo if you like what you see! 
